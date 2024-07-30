@@ -1,4 +1,4 @@
-# TwoSum
+# Leetcode TwoSum
 
 class Solution(object):
     def twoSum(self, nums, target):
